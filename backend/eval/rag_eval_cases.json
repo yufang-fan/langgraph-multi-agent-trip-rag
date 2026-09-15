@@ -1,0 +1,122 @@
+[
+  {
+    "id": "beijing_history_food",
+    "destination": "北京",
+    "preferences": ["历史文化", "美食"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["经典行程参考"]
+  },
+  {
+    "id": "beijing_food",
+    "destination": "北京",
+    "preferences": ["美食"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["老北京小吃"]
+  },
+  {
+    "id": "beijing_photo_hutong",
+    "destination": "北京",
+    "preferences": ["拍照"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "想逛胡同拍照",
+    "expected_title_keywords": ["南锣鼓巷"]
+  },
+  {
+    "id": "shanghai_art_museum",
+    "destination": "上海",
+    "preferences": ["艺术", "博物馆"],
+    "travel_style": "慢旅行",
+    "free_text_input": "",
+    "expected_title_keywords": ["经典行程参考"]
+  },
+  {
+    "id": "shanghai_food",
+    "destination": "上海",
+    "preferences": ["美食"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["本帮菜"]
+  },
+  {
+    "id": "shanghai_photo_night",
+    "destination": "上海",
+    "preferences": ["拍照"],
+    "travel_style": "慢旅行",
+    "free_text_input": "想看夜景",
+    "expected_title_keywords": ["经典行程参考"]
+  },
+  {
+    "id": "chengdu_food",
+    "destination": "成都",
+    "preferences": ["美食"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["川菜"]
+  },
+  {
+    "id": "chengdu_leisure_teahouse",
+    "destination": "成都",
+    "preferences": ["休闲"],
+    "travel_style": "慢旅行",
+    "free_text_input": "想去茶馆",
+    "expected_title_keywords": ["经典行程参考"]
+  },
+  {
+    "id": "chengdu_old_town",
+    "destination": "成都",
+    "preferences": ["古镇"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["经典行程参考"]
+  },
+  {
+    "id": "dali_photo_sunset",
+    "destination": "大理",
+    "preferences": ["拍照", "自然风光"],
+    "travel_style": "慢旅行",
+    "free_text_input": "想看日落",
+    "expected_title_keywords": ["经典行程参考"]
+  },
+  {
+    "id": "dali_cycling",
+    "destination": "大理",
+    "preferences": ["骑行"],
+    "travel_style": "慢旅行",
+    "free_text_input": "",
+    "expected_title_keywords": ["经典行程参考"]
+  },
+  {
+    "id": "dali_food",
+    "destination": "大理",
+    "preferences": ["美食"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["菌子火锅"]
+  },
+  {
+    "id": "xian_history",
+    "destination": "西安",
+    "preferences": ["历史文化"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["西安城墙"]
+  },
+  {
+    "id": "xian_food",
+    "destination": "西安",
+    "preferences": ["美食"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["面食"]
+  },
+  {
+    "id": "xian_history_museum",
+    "destination": "西安",
+    "preferences": ["历史", "博物馆"],
+    "travel_style": "舒适均衡",
+    "free_text_input": "",
+    "expected_title_keywords": ["经典行程参考"]
+  }
+]

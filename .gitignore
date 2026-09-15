@@ -1,0 +1,41 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+backend/venv/
+backend/db/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-check/
+
+# Logs and runtime data
+*.log
+logs/
+log/
+
+# IDE and OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local interview and study artifacts
+/LLM_interview_*.md
+/LLM_interview_*.html
+/LLM_interview_*.pdf
+/PROJECT_INTERVIEW_MASTER.md
+/PROJECT_INTERVIEW_MASTER.pdf
